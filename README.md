@@ -1,2 +1,3 @@
-# ml-zoomcamp-2025-ghozi
-Repository for ML Zoomcamp 2025 by DataTalksClub
+# Machine Learning Zoomcamp 2025
+
+This is a repository from ML Zoomcamp by DataTalksClub.
